@@ -1,0 +1,41 @@
+{
+  "name": "Ice Mine Slots",
+  "short_name": "IceMineSlots",
+  "description": "Бесплатная социальная слот-игра для развлечения",
+  "theme_color": "#0c4a6e",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "entertainment"],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "Ice Mine Slots gameplay"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Play Now",
+      "short_name": "Play",
+      "description": "Start playing Ice Mine Slots",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
